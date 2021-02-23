@@ -285,6 +285,30 @@ Here is an exhaustive list of the currently available Permission items:
 -   Disabled track priority on wizard: It disables the option to choose the track priority of a video in Wizard.
 -   Disabled track profiles on wizard: It disables the option to choose the track profiles of a video in Wizard.
 -   Add an external player (iframe) into a multimedia object: This option allows you to add external videos to PuMuKIT.
+-   Show last announces on series metadata: it enables the option for the series to display in announced.
+-   Show series style on series metadata: it activates the option to choose a predefined series style.
+-   Show display on series metadata: When is enabled, the series aren't displayed in the web portal.
+-   Group list options on series list: It shows the group list options located in the lower corner of the series list.
+-   Show keywords options on series metadata:	It allows to choose keywords to describe the series.
+-   Show channel option on series metadata:	It is enabled, the user can select a channel to classify the object in the frontend media library.
+-   Show html configuration option on series metadata: It allows that the user can define a series header, footer and style.
+-   Show headline option on series metadata: It enabled the option to edit headline series.
+-   Show template option on series metadata: It allows to define a template to display the series.
+-   Show magic url option on series: It shows accesible URL when the series is hidden.
+-   Show tab edit template on series: When is enabled, the user can define a template for all objects contained in the series.
+-   Edit copyright on multimedia object: It allows to edit of copyright of the object.	
+-   Edit headline on multimedia object	It enables the option to edit headline object.
+-   Edit keywords on multimedia object: It allows to edit the object copyright.		
+-   Edit subserie on multimedia object	When is enabled, the user can choose a subseries to the object.
+-   Edit license on multimedia object: It allows to edit of the license of the object.	
+-   Show tracks options on multimedia object: When is enabled, the user can choose different options to modify the track such as: show/hide track, edit, info...
+-   Show category tab on multimedia object: It allows to choose categories to each object.	
+-   Show people tab on multimedia object:	It allows to choose each person who performs an action in the video: actor, presenter...
+-   Show owner tab on multimedia object:	It enables the option to choose the owner or owners and the admin groupd of an object.
+-   Show sync tab on multimedia object:	It allows to select metadata to sync on all multimedia objects of the series.
+-   Show magic url on multimedia object:	It shows accesible URL when the object is hidden.
+-   Show wizard button on multimedia object:	It allows to create an object using the wizard. 
+-   Show info urls on multimedia object:	If it is enabled, the user can view the object's Urls.
 -   Publication channel "WebTV" disabled: It disable the checkbox to publish in "WebTV" channel.
 -   Publication channel "WebTV" activated by default: It enables by default the checkbox that publish in the "WebTV" channel.
 -   Access Stats: It gives access to the Galicaster Media Server statistics.

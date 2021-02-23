@@ -296,12 +296,6 @@ You will find the following metadata fields in the form:
 
 -   **Keywords**: Include here any keywords for the series separated by semicolons. It is used to improve the efficiency of the searches.
 
--   **Copyright**: Field where the copyright owner of the contents of a series is defined.
-
--   **License**: Field where the license of the media is defined (Creative Commons, etc...)
-
--   **Channel**: Useless field that will soon be removed.
-
 -   **Publication Date**: It is initialized with the date of the creation of the series. It's easy to modify thanks to the calendar widget.
 
 -   **Thumbnails**: One or more small images (thumbnails) related to the series. You can modify the order, delete or insert new ones. See section 3.3.
