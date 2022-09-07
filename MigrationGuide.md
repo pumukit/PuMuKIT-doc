@@ -1,7 +1,7 @@
 PuMuKIT Migration Guide
 =======================
 
-To do a migration, there are two possibilities depending of your Pumukit installation. In some version is also necessary execute another especific steps after do the migration (you can see this changes in the migration guides)
+To do a migration, there are two possibilities depending of your Pumukit installation. In some version is also necessary execute another specific steps after do the migration (you can see this changes in the migration guides)
 
 - Installation using git:
 
