@@ -3,7 +3,7 @@ PuMuKIT Migration Guide
 
 To do a migration, there are two possibilities depending of your Pumukit installation. In some version is also necessary execute another specific steps after do the migration (you can see this changes in the migration guides)
 
-- Installation using git:
+- Installation using git
 
 In this case you only have to do a 'git checkout' to the desired tag.
 
@@ -14,6 +14,7 @@ For example, if you want to migrate from 3.4 to 3.9 you must stop pumukit, do gi
 In this case you must change the selected branch in the file and after execute "composer update" to update
 
 
+### Specific migration guides
 
 1. [Guide to migrate from PuMuKIT 2.6 to PuMuKIT 3.0](migration_guides/from2.6to3.0.md)
 2. [Guide to migrate from PuMuKIT 3.0 to PuMuKIT 3.1](migration_guides/from3.0to3.1.md)
