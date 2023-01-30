@@ -30,7 +30,7 @@ Follow the below instructions. If any error is thrown check the [F.A.Q. section]
 
 2. Clone PuMuKIT software
 ```
-git clone https://github.com/pumukit/PuMuKIT-doc.git
+git clone https://github.com/pumukit/PuMuKIT.git
 ```
 
 4. Build containers
