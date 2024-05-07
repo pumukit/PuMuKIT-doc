@@ -15,7 +15,7 @@ PuMuKIT Documentation Project
 
 ## PuMuKIT Site
 
-http://pumukit.org
+https://pumukit.org
 
 
 ## PuMuKIT Code Project:

@@ -67,7 +67,7 @@ PuMuKIT SysAdmin Guide
 -   **Series**: Ordered collection of multimedia objects.
 
 -   **Multimedia Objects**: Set of media files (audio or video files), metadata and attachments (related files like ppts, pdfs, etc...). A multimedia object is composed of:
-	
+
     - Several multimedia files: the "master" copy with maximum quality and one or several "distribution" or "delivery" copies, of the same media, encoded with different qualities or codecs.
 
     - Descriptive metadata, temporal and spatial-location metadata, presentation metadata and access-authorization metadata.

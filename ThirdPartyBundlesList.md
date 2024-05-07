@@ -1,9 +1,6 @@
 Third Party Bundles
 ===================
 
-List of third party bundles
----------------------------
-
 * [CasBundle](https://github.com/pumukit/PumukitCasBundle): allows to use CAS on PuMuKIT.
 * [ExpiredVideoBundle](https://github.com/teltek/PumukitExpiredVideoBundle): allows to set a video expiration date.
 * [HardVideoEditorBundle](https://github.com/teltek/PumukitHardVideoEditorBundle): allows to edit videos generating a new multimedia object.
